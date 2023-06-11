@@ -1,0 +1,8 @@
+Git Flow
+
+Git Flow, bir yazılım geliştirme süreci ve Git tabanlı
+bir dal modelidir. Vincent Driessen tarafından
+önerilen bir yaklaşımdır ve popüler bir sürüm
+yönetimi stratejisidir. Git Flow, projenin düzenli,
+paralel ve sürdürülebilir bir şekilde geliştirilmesini
+sağlar.
